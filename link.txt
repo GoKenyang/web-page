@@ -1,0 +1,2 @@
+https://drive.google.com/thumbnail?id=FILE_ID
+https://drive.google.com/uc?id=FILE_ID
